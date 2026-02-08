@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.env
+
+# data files (do not commit)
+data/
+*.csv
+*.csv.gz
+*.parquet
+
+# accidental google-cloud-sdk folder
+yes/
+
